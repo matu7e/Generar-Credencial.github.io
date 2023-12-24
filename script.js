@@ -29,6 +29,7 @@ function generarCarnet() {
         return;
     }
 
+    
     // Crear un objeto FileReader para leer el contenido de la imagen
     var reader = new FileReader();
 
